@@ -1,0 +1,10 @@
+# Build outputs
+out/
+*.apk
+*.aab
+*.so
+*.o
+# Never commit game data or keys
+default.xex
+*.iso
+*.keystore

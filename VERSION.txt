@@ -1,0 +1,4 @@
+1.0.0
+ReXGlue SDK 0.10.0
+Android NDK 27.2.12479018
+Codegen: 2026-10-18 (final run clean, 781 files written)
